@@ -16,7 +16,7 @@ export const skillsData = [
     {
         icon: FaMicrochip,
         title: 'Backend',
-        technologies: ['Python', 'Postgres', 'Redis', 'Next.js']
+        technologies: ['Python', 'C/C++', 'Next.js','JavaScript']
     },
     {
         icon: FaReact,
@@ -26,17 +26,17 @@ export const skillsData = [
     {
         icon: FaDesktop,
         title: 'Web',
-        technologies: ['Nginx', 'Linux', 'Wsgi', 'Server']
+        technologies: ['Nginx', 'Linux','Server']
     },
     {
         icon: FaCode ,
         title: 'DevOps',
-        technologies: ['Linux', 'Git', 'Github', 'Docker', 'Jenkins', 'CI/CD']
+        technologies: ['Linux', 'Git', 'Github']
     },
     {
         icon: FaMobile,
         title: 'Mobile',
-        technologies: ['React Native', 'Android', 'Flutter', 'Java']
+        technologies: ['React Native', 'Java']
     },
 ]
 

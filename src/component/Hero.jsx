@@ -48,8 +48,9 @@ const Hero = () => {
               <div className="absolute -bottom-6 -right-6 w-32 h-32 rounded-xl border border-slate-600/20 overflow-hidden p-3">
                 <div className="w-full h-full flet items-center justify-center">
                   <div className="text-center">
-                    <div className="text-3xl font-bold text-black ">1+</div>
-                    <div className="text-sm text-black">years Exp</div>
+                    <div className="text-sm  text-black ">Student</div>
+                    <div className="text-sm text-black">OF</div>
+                    <div className="text-sm text-black">MSU Baroda</div>
                   </div>
                 </div>
               </div>
