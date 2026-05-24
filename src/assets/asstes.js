@@ -73,16 +73,16 @@ export const profileData = [
     {
         icon: FaCode ,
         title: 'Language',
-        technologies : ['Python', 'Django', 'Rest', 'React', 'Tailwindcss']
+        technologies : ['Python', 'C/C++', 'Java', 'React', 'Tailwindcss','HTML','CSS','JavaScript']
     },
     {
         icon: FaSchool ,
         title: 'Education',
-        technologies : ['B.Tech in Compuer Science']
+        technologies : ['Bachelor of Computer Applications','(BCA) From MSU BARODA']
     },
     {
         icon: FaProjectDiagram ,
         title: 'Projects',
-        technologies : ['Built more than 25+']
+        technologies : ['Built more than 5+']
     },
 ]
